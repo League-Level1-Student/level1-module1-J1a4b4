@@ -13,6 +13,7 @@ package _02_cat;
 		* 2. Get the Cat to print it's name
 
 		* 3. Kill the Cat! 
+		* Gosh, you're insensitive.
 		
 		*/
 

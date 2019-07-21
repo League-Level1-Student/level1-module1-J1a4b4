@@ -7,10 +7,15 @@ package _04_popcorn;
 
 
 /* Your mission and you have to accept it:
- * Create a PopcornMaker class (in the popcorn package) and add a main method to it. 
+ * Oh, great.
+ * Create a PopcornMaker class (in the popcorn package) and add a main method to it.
+ * Okay... 
  * The main method should create a bag of Popcorn and cook it in the microwave.
+ * Okay...
  * Ask the user for the flavor of the popcorn and the number of minutes to cook it.
+ * Okay...
  * Don't change the existing methods.
+ * Hmm. Oops.
  */
 
 class Microwave {
