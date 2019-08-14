@@ -22,6 +22,7 @@ JTextField entryBar = new JTextField(20);
 void convert() {
 frameI.setVisible(true);
 frameII.add(label);
+frameII.setSize(1, 1);
 frameI.add(panel);
 button.setText("Convert!");
 panel.add(button);
@@ -36,6 +37,7 @@ public void actionPerformed(ActionEvent e) {
 	String entry = entryBar.getText();
 	label.setText(convert(entry));
 	frameI.setVisible(false);
+	label.setText(convert(entryBar.getText()));
 	frameII.setVisible(true);
 }
 String convert(String input) {
